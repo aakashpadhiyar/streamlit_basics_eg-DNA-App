@@ -42,3 +42,7 @@ This app counts the nucleotide composition of DNA.
 </p>
 
 ![DNA Banner aakash app](./DNA.png)
+
+## Preview
+
+![DNA Banner aakash app](./preview.png)
